@@ -1,0 +1,13 @@
+#Objectives
+-Investigate Devices in a Wiring Closet
+-Connect End Devices to Networking Devices
+-Install a Backup Router
+-Configure a Hostname
+#Background / Scenario
+The network model in this Packet Tracer Tutored Activity (PTTA) incorporates many of the technologies that you can master in Cisco Networking Academy courses. It represents a simplified version of how a small to medium-sized business network might look.
+
+Most of the devices in the Seward Branch Office (top left) and Warrenton (bottom right) data center are already deployed and configured. You have just been hired to review the devices and networks deployed. It is not important that you understand everything you see and do in this activity. Feel free to explore the network and become familiar with the menus on your own. Hints will also appear after a certain amount of time. You can select a hint level with the slider bar in the bottom left hand corner.
+
+Note: There are two way to look at a network in Packet Tracer. Logical mode shows you how devices are connected in the network. Physical mode shows you where the devices are located in the network. This activity opens in and focuses on Physical mode. Many of the Packet Tracer activities you encounter in Cisco Networking Academy courses will use Logical mode. You can switch between these modes at any time to compare the differences by clicking the Logical (Shift-L) and Physical (Shift-P) buttons. However, in other activities in this course you may be locked out of one mode or the other.
+
+When you're ready, click Next to get started.
